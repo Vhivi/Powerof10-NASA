@@ -1,7 +1,9 @@
 # The Power of 10: Rules for Developing Safety-Critical Code
 
 ***Gerard J. Holzmann***
+
 ***NASA/JPL Laboratory for Reliable Software***
+
 [Source File (PDF)](http://web.eecs.umich.edu/~imarkov/10rules.pdf)
 
 - [The Power of 10: Rules for Developing Safety-Critical Code](#the-power-of-10-rules-for-developing-safety-critical-code)
