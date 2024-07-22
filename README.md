@@ -14,3 +14,7 @@ After creating the adaptation of NASA's programming rules for the Python languag
 ## Contributing
 
 If you would like to contribute to this project, please read the file [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to do so.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
