@@ -14,13 +14,13 @@ Thank you for your interest in contributing to our Powerof10-NASA repository. We
 
 2. Clone your fork: `git clone https://github.com/your-username/Powerof10-NASA.git`
 
-    :warning: Replace `your-username` with your GitHub username. :warning:
+    :warning: ***Replace `your-username` with your GitHub username.*** :warning:
 
 3. Create a branch for your changes:
    - For new files: `git checkout -b add-new-rules-{proglang}`
    - For modifications: `git checkout -b modify-existing-docs-{proglang}`
 
-4. Make your changes, the naming convetion is `Powerof10-{proglang}.md`.
+4. Make your changes, the naming convention is `Powerof10-{proglang}.md`.
 
 5. Commit your changes, we try to use the [Conventional Commits specifications](https://www.conventionalcommits.org/):
    - For new files: `git commit -m "feat: add new rules for {proglang}"`
@@ -34,11 +34,11 @@ Thank you for your interest in contributing to our Powerof10-NASA repository. We
 
 8. Wait for your pull request to be reviewed and merged.
 
-:construction: Make sure to replace {proglang} by the language you want to add. :construction:
+:construction: ***Make sure to replace `{proglang}` by the language you want to add.*** :construction:
 
 We will review your contribution as soon as possible and provide feedback if necessary.
 
-Thank you for your contribution!
+:tada: Thank you for your contribution! :tada:
 
 ## Guidelines for Adding a New Programming Language Adaptation
 
@@ -52,7 +52,7 @@ Thank you for your contribution!
 
 We will review your contribution as soon as possible and provide feedback if necessary.
 
-Thanks again for your contribution!
+:tada: Thanks again for your contribution! :tada:
 
 ## Guidelines for Modifying Existing Files
 
