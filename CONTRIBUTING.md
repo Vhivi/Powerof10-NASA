@@ -6,7 +6,7 @@
   - [Guidelines for Modifying Existing Files](#guidelines-for-modifying-existing-files)
   - [Code of Conduct](#code-of-conduct)
 
-Thank you for your interest in contributing to our Powerof10-NASA repository. We are happy to accept additional programming language adaptations for NASA rules. Please follow the steps below to submit your contribution:
+Thank you for your interest in contributing to our Powerof10-NASA repository. We are happy to accept additional programming language adaptations for NASA rules. Please follow the steps below to submit your contribution.
 
 ## Getting Started
 
