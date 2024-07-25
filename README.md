@@ -2,8 +2,8 @@
 
 This repository contains two files:
 
-- `Powerof10-original.md`: This file lists the original 10 programming rules from NASA.
-- `Powerof10-python.md`: This file provides an adaptation of the original rules for Python programming.
+- `rules/Powerof10-C.md`: This file lists the original 10 programming rules from NASA for C programming.
+- `rules/Powerof10-Python.md`: This file provides an adaptation of the original rules for Python programming.
 
 After coming across an article discussing NASA's 10 programming rules, I thought it would be interesting to adapt them for the Python language. That's what I'm trying to do in the `Powerof10-python.md` file.
 
