@@ -56,7 +56,7 @@ The code's assertion density should average to minimally two assertions per func
 
 ## **Rule 6**
 
-Declare alldata objects at the smallest possible level of scope.
+Declare all data objects at the smallest possible level of scope.
 
 ***Rationale :*** This rule supports a basic principle of data hiding. Clearly, if an object is not in scope, othermodules cannot reference or corrupt its value. Similarly, if a tester must diagnose an object's erroneous value, the fewer the number of statements where the value could have been assigned, the easier it is to diagnose the problem. The rule also discourages the reuse of variables for multiple, incompatible purposes, which can complicate fault diagnosis.
 
