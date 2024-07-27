@@ -1,0 +1,7 @@
+# Add 'new rule' label to any PR where the head branch name contains 'add-new-rule'
+New Rule:
+  head-branch: ['add-new-rule']
+
+# Add 'modify rule' label to any PR where the head branch name contains 'modify-existing-docs'
+Modify Rule:
+  head-branch: ['modify-existing-docs']
